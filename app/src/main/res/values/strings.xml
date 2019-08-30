@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CCP POST</string>
+    <string name="back">back</string>
+    <string name="forward">forward</string>
+    <string name="About">about</string>
+    <string name="title_home">home</string>
+</resources>

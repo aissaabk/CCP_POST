@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="back">عودة</string>
+    <string name="forward">للأمام</string>
+    <string name="About">حول</string>
+    <string name="title_home">الرئيسية</string>
+</resources>
